@@ -1,7 +1,10 @@
 Hallo ich bin nicht der Kasperl!
 
-Und Grafik!
+Und Grafik und Ganepad!
 
 public void doGraphics() {
   blah
+}
+public void doGamepad() {
+  blubb blubb code
 }
