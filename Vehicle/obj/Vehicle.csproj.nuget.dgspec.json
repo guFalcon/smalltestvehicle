@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\net\\Vehicle\\Vehicle.csproj": {}
+    "C:\\Users\\unterrainercms\\Documents\\GitHub\\smalltestvehicle\\Vehicle\\Vehicle.csproj": {}
   },
   "projects": {
-    "C:\\source\\net\\Vehicle\\Vehicle.csproj": {
+    "C:\\Users\\unterrainercms\\Documents\\GitHub\\smalltestvehicle\\Vehicle\\Vehicle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\net\\Vehicle\\Vehicle.csproj",
+        "projectUniqueName": "C:\\Users\\unterrainercms\\Documents\\GitHub\\smalltestvehicle\\Vehicle\\Vehicle.csproj",
         "projectName": "Vehicle",
-        "projectPath": "C:\\source\\net\\Vehicle\\Vehicle.csproj",
+        "projectPath": "C:\\Users\\unterrainercms\\Documents\\GitHub\\smalltestvehicle\\Vehicle\\Vehicle.csproj",
         "packagesPath": "C:\\Users\\unterrainercms\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\net\\Vehicle\\obj\\",
+        "outputPath": "C:\\Users\\unterrainercms\\Documents\\GitHub\\smalltestvehicle\\Vehicle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\unterrainercms\\AppData\\Roaming\\NuGet\\NuGet.Config"

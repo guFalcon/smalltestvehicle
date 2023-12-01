@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Vehicle
-build_property.ProjectDir = C:\source\net\Vehicle\
+build_property.ProjectDir = C:\Users\unterrainercms\Documents\GitHub\smalltestvehicle\Vehicle\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

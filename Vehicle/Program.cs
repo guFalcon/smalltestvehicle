@@ -1,14 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var car1 = new Car("Opel", 130, 500);
+car1.Load(49);
+car1.Drive();
+car1.Stop();
+car1.Unload(49);
 
-Console.WriteLine("creating a new car");
-var car = new Car(130, 500);
-Console.WriteLine("loading 50kg of cargo");
-car.Load(50);
-Console.WriteLine("driving car");
-car.Drive();
-Console.WriteLine("stoppping car");
-car.Stop();
-Console.WriteLine("unloading 50kg of cargo");
-car.Unload(50);
+Console.WriteLine("");
+
+var car2 = new Car("Toyota", 90, 200);
+car2.Stop();
+car2.Load(40);
+car2.Drive();
+car2.honk();
+car2.Stop();
+car2.Unload(40);
+
 Console.WriteLine("done");
